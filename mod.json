@@ -1,0 +1,17 @@
+{
+	"geode": "4.9.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "sidastuff.haxchest",
+	"name": "HaxChest",
+	"version": "v1.0.0",
+	"developer": "sidastuff",
+	"description": "A program that allows you to open chests with different rewards, and they will be added to your save file. WARNING! This may result in you getting leaderboard banned, please BE CAREFUL.",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	}
+}
